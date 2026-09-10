@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Animesh%20Karmakar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Tech%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Animesh%20Karmakar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://visionary-bonbon-ad7d7d.netlify.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Turning+Ideas+Into+Real+Projects+%E2%9A%A1;BCA+Student+%7C+Full-Stack+Developer;Building+AI-Powered+Web+Applications+%F0%9F%A4%96;Hackathons+%7C+Open+Source+%7C+Innovation+%F0%9F%9A%80" alt="Typing SVG"/>
+<a href="https://portfolio-animesh882.netlify.app/">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Turning+Ideas+Into+Working+Software+%E2%9A%A1;BCA+Student+%7C+Software+Developer;Java+%7C+DSA+%7C+Web+Development;Building+Useful+%26+Modern+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG"/>
+
 </a>
 
 <br/>
 
-<a href="https://visionary-bonbon-ad7d7d.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-animesh882.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/animesh-karmakar-91351536b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:animeshkarmakar882@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,13 +30,13 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br/>
 
@@ -40,32 +44,49 @@
 
 ```yaml
 name: Animesh Karmakar
-role: Full-Stack Developer | AI & Tech Enthusiast
-education: "BCA, ABS Academy of Management and Health Science"
-affiliation: "MAKAUT"
+role: Developer | Problem Solver | Tech Enthusiast
+
+education:
+  degree: "BCA"
+  institution: "ABS Academy of Management And Health Science"
+  duration: "2025 - 2028"
+
 focus:
-  - Full-Stack Web Development
-  - AI-Powered Applications
+  - Java
+  - Data Structures & Algorithms
+  - Web Development
+  - Software Development
+  - Problem Solving
+  - Modern UI & Interactive Experiences
+
+currently_learning:
+  - Full-Stack Development
+  - AI & Modern Web Technologies
+  - Backend Development
   - Cybersecurity
-  - Hackathons & Innovation
-  - Modern Web Technologies
+
 status: "🟢 Open to Opportunities"
-location: "India"
 ```
 
-I'm a BCA student passionate about **Full-Stack Development, Artificial Intelligence, Cybersecurity, and building real-world digital products**.
+I'm **Animesh Karmakar**, a BCA student interested in software development, problem solving, and modern web experiences.
 
-I enjoy turning ideas into working applications, participating in hackathons, experimenting with AI tools, and continuously learning new technologies.
+I enjoy turning ideas into working software and continuously improving my programming fundamentals through real projects.
 
-Currently, I'm focused on building **AI-powered platforms, scalable web applications, and innovative solutions for real-world problems.**
+My current focus is on **Java, Data Structures, Web Development, Full-Stack Development, and practical software engineering**.
 
 <br/>
 
-<div align="center">
-
 ## 💻 Currently Building
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%"/>
+
+<br/><br/>
+
+```text
+Ideas → Code → Debug → Improve → Build → Ship 🚀
+```
 
 </div>
 
@@ -75,7 +96,7 @@ Currently, I'm focused on building **AI-powered platforms, scalable web applicat
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark&perline=8"/>
 
@@ -85,47 +106,104 @@ Currently, I'm focused on building **AI-powered platforms, scalable web applicat
 
 ### 🗄️ Database & Backend
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,flask,django&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,flask,django&theme=dark&perline=8"/>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel&theme=dark&perline=8"/>
-
-### 🤖 AI & Other Skills
-
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark&perline=8"/>
 
 </div>
 
 <br/>
 
-## 🚀 Experience
+## 📚 Core Strengths
 
-| Role                           | Organization                                   | Duration            |
-| ------------------------------ | ---------------------------------------------- | ------------------- |
-| 🎓 Campus Mantri               | GeeksforGeeks                                  | Jun 2026 – Present  |
-| 💻 IT Committee Member         | ABS Academy of Science Technology & Management | Feb 2026 – Present  |
-| 🚀 Campus Ambassador           | IIT Roorkee                                    | Mar 2026 – May 2026 |
-| 💻 Full-Stack Developer Intern | CodeAlpha                                      | May 2026            |
-| 🌐 Web Development Intern      | HexSoftwares                                   | May 2026 – Jun 2026 |
-| 💻 Ex-Intern                   | Scaler School of Technology                    | Jun 2025 – Jul 2025 |
+<div align="center">
+
+| Skill              | Focus                                            |
+| ------------------ | ------------------------------------------------ |
+| ☕ Java             | OOP, application development & programming logic |
+| 🧩 DSA             | Algorithms, data structures & problem solving    |
+| 🌐 HTML            | Semantic and structured web interfaces           |
+| 🎨 CSS             | Responsive design, animations & UI               |
+| ⚡ JavaScript       | Interactivity & dynamic web experiences          |
+| 💻 Web Development | Building useful and modern web applications      |
+| 🔐 Security        | Password generation & basic security concepts    |
+
+</div>
 
 <br/>
 
-## 🛠️ Featured Builds
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🌐 AUNEX
+### 📚 Library Management System
 
-**AI-Powered Digital Ecosystem**
+A structured application for managing books, users, issue records and library operations.
 
-A multi-sided digital platform connecting students, freelancers, businesses and customers through services, opportunities and digital solutions.
+**Tech Stack**
 
-`React` `Firebase` `AI` `JavaScript`
+`Java` `OOP` `Database` `Logic`
+
+</td>
+
+<td width="50%">
+
+### 🧠 Online Quiz System
+
+An academic quiz platform designed for answering questions, checking responses and improving user interaction.
+
+**Tech Stack**
+
+`Java` `Logic` `UI` `Problem Solving`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧮 Animated Calculator
+
+A responsive calculator that combines everyday utility with interactive animations and modern UI.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🎙️ Speech Recognition Tool
+
+A browser-based tool exploring voice input, speech recognition and accessible user interaction.
+
+**Tech Stack**
+
+`JavaScript` `Web Speech API`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔐 Strong Password Generator
+
+A security-focused utility designed to generate stronger passwords and encourage better credential practices.
+
+**Tech Stack**
+
+`JavaScript` `API` `Security` `Logic`
 
 </td>
 
@@ -133,11 +211,11 @@ A multi-sided digital platform connecting students, freelancers, businesses and 
 
 ### 🌱 EcoVision AI
 
-**Automated Campus Environmental Operations**
+An AI-powered concept focused on improving campus environmental operations through intelligent detection, analysis and task management.
 
-An AI-powered campus management platform that detects environmental issues, evaluates them and helps assign and track corrective actions.
+**Tech Stack**
 
-`Gemini AI` `Firebase` `JavaScript` `Computer Vision`
+`AI` `JavaScript` `Firebase` `Computer Vision`
 
 </td>
 
@@ -149,11 +227,11 @@ An AI-powered campus management platform that detects environmental issues, eval
 
 ### 🛡️ RatriSathi AI
 
-**AI-Powered Women Safety Platform**
+An AI-powered women's safety platform designed around emergency response, live location, safety check-ins and risk-aware assistance.
 
-A safety-focused platform featuring emergency response, live location tracking, safety check-ins, unsafe-route detection, evidence capture and emergency alerts.
+**Tech Stack**
 
-`HTML` `CSS` `JavaScript` `MySQL` `Node.js`
+`HTML` `CSS` `JavaScript` `MySQL`
 
 </td>
 
@@ -161,39 +239,11 @@ A safety-focused platform featuring emergency response, live location tracking, 
 
 ### 🏥 AarogyaX Cure
 
-**AI-Powered Healthcare Platform**
+A digital healthcare platform concept combining AI assistance, emergency support, hospital discovery and health-related services.
 
-A digital healthcare solution combining AI assistance, hospital discovery, blood donation support, emergency SOS and digital health records.
+**Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Flask` `Firebase` `Gemini`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 E-Commerce WebApp
-
-**Full-Stack E-Commerce Platform**
-
-A modern shopping platform with product management, authentication, cart functionality and an admin-oriented stock management concept.
-
-`HTML` `CSS` `JavaScript` `Full-Stack`
-
-</td>
-
-<td width="50%">
-
-### 📋 Project Management Tool
-
-**Collaborative Task Management**
-
-A Trello/Asana-inspired platform for managing projects, boards, tasks, comments and user workflows.
-
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Flask` `Firebase`
 
 </td>
 
@@ -205,25 +255,103 @@ A Trello/Asana-inspired platform for managing projects, boards, tasks, comments 
 <div align="center">
 
 <a href="https://github.com/animesh2008-projects?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-%E2%86%92-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Explore%20All%20Projects%20%E2%86%92-8B5CF6?style=for-the-badge"/>
+
 </a>
 
 </div>
 
 <br/>
 
-## 🏆 Hackathons & Innovation
+## 🎓 Education
+
+```text
+2025 ─────────────────────────────── 2028
+             BCA
+ABS Academy of Management And Health Science
+       Software & Technology Focus
+
+2023 ─────────────────────────────── 2025
+          Higher Secondary
+     Bahula Sashi Smriti High School
+
+2023
+           Secondary
+       Baidyanathpur High School
+```
+
+<br/>
+
+## 🏆 Experience & Activities
+
+### 🚀 GeeksforGeeks Campus Mantri
+
+**Jun 2026 – Present**
+
+Working as a Campus Mantri and participating in technology-focused community and promotional activities.
+
+### 💻 IT Committee Member
+
+**ABS Academy of Science Technology & Management**
+
+Contributing to technical activities, teamwork and technology-related initiatives within the institution.
+
+### 🎓 IIT Roorkee Campus Ambassador
+
+**Mar 2026 – May 2026**
+
+Participated in outreach and promotion activities while connecting students with technology opportunities.
+
+### 🌐 Full-Stack Developer Intern
+
+**CodeAlpha**
+
+Worked on practical web-development projects including e-commerce, social media and project management concepts.
+
+### 💻 Web Development Intern
+
+**HexSoftwares**
+
+Worked on web-development tasks and practical frontend development.
+
+<br/>
+
+## 🤖 Areas I'm Exploring
 
 <div align="center">
 
-🚀 **Hackathon Builder**   •  
-🤖 **AI Projects**   •  
-🌱 **Sustainability Tech**   •  
-🛡️ **Women Safety Tech**   •  
-🏥 **HealthTech**   •  
-💻 **Full-Stack Development**
+`Artificial Intelligence` •
+`Generative AI` •
+`Full-Stack Development` •
+`Cybersecurity` •
+`Cloud` •
+`Automation` •
+`Modern UI`
 
 </div>
+
+<br/>
+
+## 🏗️ My Development Philosophy
+
+```text
+        THINK
+          ↓
+       LEARN
+          ↓
+        BUILD
+          ↓
+       TEST
+          ↓
+       DEBUG
+          ↓
+       IMPROVE
+          ↓
+        SHIP 🚀
+```
+
+I believe the best way to learn technology is to **build something real, break it, understand why it broke, and build it better.**
 
 <br/>
 
@@ -267,75 +395,63 @@ A Trello/Asana-inspired platform for managing projects, boards, tasks, comments 
 
 <br/>
 
-## 📈 My Developer Journey
+## 🎯 Current Goals
 
 ```text
-Learning
-   ↓
-Building
-   ↓
-Breaking Things
-   ↓
-Debugging
-   ↓
-Building Better
-   ↓
-Shipping 🚀
+☑ Strengthen Java & DSA
+☑ Build real-world software projects
+☑ Improve Full-Stack development
+☑ Explore AI-powered applications
+☑ Participate in hackathons
+☑ Grow through practical development
+☐ Launch products that people actually use 🚀
 ```
 
 <br/>
 
-## 💡 What I'm Interested In
-
-* 🤖 Artificial Intelligence & Generative AI
-* 🌐 Full-Stack Web Development
-* 🔐 Cybersecurity
-* ☁️ Cloud & Backend Technologies
-* 🧠 AI Agents & Automation
-* 🚀 Hackathons & Startup Ideas
-* 🌱 Technology for Real-World Problems
-* 📚 Open Source & Continuous Learning
-
-<br/>
-
-## 🎯 2026 Goals
-
-```text
-☑ Build meaningful real-world projects
-☑ Participate in national-level hackathons
-☑ Improve Full-Stack development skills
-☑ Explore AI & intelligent applications
-☑ Contribute to developer communities
-☐ Build and launch something people actually use 🚀
-```
-
-<br/>
-
-## 🤝 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
 
-I'm always interested in **interesting projects, hackathons, collaborations, internships, and conversations about technology.**
+<a href="https://portfolio-animesh882.netlify.app/">
 
-<br/>
-
-<a href="https://visionary-bonbon-ad7d7d.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/animesh2008-projects">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/animesh-karmakar-91351536b/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:animeshkarmakar882@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-<br/><br/>
-
-**"Build. Learn. Fail. Improve. Repeat." 🚀**
+</div>
 
 <br/>
+
+<div align="center">
+
+### 💬 Let's Build Something
+
+Whether it's a **web application, AI project, hackathon idea, or something completely new**, I'm always open to learning, collaborating and building.
+
+<br/>
+
+**"Build. Learn. Improve. Repeat." 🚀**
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6366F1,100:8B5CF6&height=150&section=footer" width="100%"/>
 

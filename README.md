@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     FUTURISTIC HEADER                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:7C3AED&height=280&section=header&text=ANIMESH%20KARMAKAR&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20EXPLORER%20%7C%20BUILDER&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED TYPING -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=70&lines=%3E+Initializing+Animesh.exe...;%3E+Java+%7C+DSA+%7C+JavaScript+%7C+Full-Stack;%3E+Exploring+AI+%2B+Cybersecurity+%2B+Automation;%3E+Turning+ideas+into+working+systems;%3E+System+Status%3A+ONLINE+%F0%9F%9F%A2" alt="Animated Typing"/>
 
 <br/><br/>
-
-<!-- SOCIAL BUTTONS -->
 
 <a href="https://portfolio-animesh882.netlify.app/">
 <img src="https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -46,12 +36,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         SYSTEM INTRO                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%"/>
@@ -76,7 +60,7 @@
 ║  EXPLORING   :: AI • Cybersecurity • Full-Stack              ║
 ║                                                              ║
 ║  STATUS      :: ● ONLINE                                     ║
-║  MODE        :: BUILDING                                    ║
+║  MODE        :: BUILDING                                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -356,52 +340,6 @@ UI/UX
 ```text
 IDEA → CODE → ERROR → DEBUG → IMPROVE → SHIP → REPEAT
 ```
-
-</div>
-
-<br/>
-
----
-
-## `> GITHUB.ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=animesh2008-projects&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&title_color=A78BFA&text_color=CBD5E1&icon_color=67E8F9" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh2008-projects&theme=transparent&hide_border=true&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh2008-projects&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=CBD5E1" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animesh2008-projects&bg_color=00000000&color=A78BFA&line=6366F1&point=67E8F9&area=true&hide_border=true" width="96%"/>
-
-</div>
-
-<br/>
-
----
-
-## `> ACHIEVEMENTS.UNLOCKED`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=animesh2008-projects&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
-## `> CONTRIBUTION.MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/animesh2008-projects/animesh2008-projects/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 
 </div>
 

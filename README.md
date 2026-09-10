@@ -1,165 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Animesh%20Karmakar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:151B2E,100:252B48&height=220&section=header&text=ANIMESH%20KARMAKAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 <br/>
 
-<a href="https://portfolio-animesh882.netlify.app/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Building+ideas+into+real+software+%E2%9A%A1;Java+%7C+DSA+%7C+Web+Development;Exploring+AI%2C+Cybersecurity+%26+Full-Stack+Development;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Turning+Ideas+Into+Working+Software+%E2%9A%A1;BCA+Student+%7C+Software+Developer;Java+%7C+DSA+%7C+Web+Development;Building+Useful+%26+Modern+Digital+Experiences+%F0%9F%9A%80" alt="Typing SVG"/>
-
-</a>
-
-<br/>
+<br/><br/>
 
 <a href="https://portfolio-animesh882.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/animesh-karmakar-91351536b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
+&nbsp;
 <a href="mailto:animeshkarmakar882@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=animesh2008-projects&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=animesh2008-projects&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-<br/>
-
-## 🧠 About Me
-
-```yaml
-name: Animesh Karmakar
-role: Developer | Problem Solver | Tech Enthusiast
-
-education:
-  degree: "BCA"
-  institution: "ABS Academy of Management And Health Science"
-  duration: "2025 - 2028"
-
-focus:
-  - Java
-  - Data Structures & Algorithms
-  - Web Development
-  - Software Development
-  - Problem Solving
-  - Modern UI & Interactive Experiences
-
-currently_learning:
-  - Full-Stack Development
-  - AI & Modern Web Technologies
-  - Backend Development
-  - Cybersecurity
-
-status: "🟢 Open to Opportunities"
-```
-
-I'm **Animesh Karmakar**, a BCA student interested in software development, problem solving, and modern web experiences.
-
-I enjoy turning ideas into working software and continuously improving my programming fundamentals through real projects.
-
-My current focus is on **Java, Data Structures, Web Development, Full-Stack Development, and practical software engineering**.
-
-<br/>
-
-## 💻 Currently Building
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%"/>
+### `HELLO, WORLD! 👋`
 
-<br/><br/>
+**I'm Animesh Karmakar.**
+
+*BCA Student • Developer • Problem Solver*
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
 
 ```text
-Ideas → Code → Debug → Improve → Build → Ship 🚀
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  👨‍💻  Animesh Karmakar                               │
+│                                                      │
+│  🎓  BCA Student                                     │
+│      ABS Academy of Management & Health Science      │
+│                                                      │
+│  💡  Interested in software development,             │
+│      problem solving and emerging technologies       │
+│                                                      │
+│  🔭  Currently exploring                             │
+│      Full-Stack Development • AI • Cybersecurity     │
+│                                                      │
+│  🚀  Building projects that turn ideas into reality  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-</div>
+I'm a BCA student who enjoys **building things, solving problems, and learning by doing**.
+
+My journey started with programming fundamentals and web development, and I'm now exploring **Full-Stack Development, AI, cybersecurity, and modern software technologies**.
 
 <br/>
 
-## ⚙️ Technical Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript&theme=dark&perline=8"/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=8"/>
-
-### 🗄️ Database & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,flask,django&theme=dark&perline=8"/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode&theme=dark&perline=8"/>
 
 </div>
 
 <br/>
-
-## 📚 Core Strengths
 
 <div align="center">
 
-| Skill              | Focus                                            |
-| ------------------ | ------------------------------------------------ |
-| ☕ Java             | OOP, application development & programming logic |
-| 🧩 DSA             | Algorithms, data structures & problem solving    |
-| 🌐 HTML            | Semantic and structured web interfaces           |
-| 🎨 CSS             | Responsive design, animations & UI               |
-| ⚡ JavaScript       | Interactivity & dynamic web experiences          |
-| 💻 Web Development | Building useful and modern web applications      |
-| 🔐 Security        | Password generation & basic security concepts    |
+`C`   `Java`   `Python`   `JavaScript`
+`HTML`   `CSS`   `React`   `Node.js`
+`Express`   `MongoDB`   `MySQL`   `Firebase`
+`Git`   `GitHub`   `AI Tools`   `Cybersecurity`
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+---
+
+## 🚀 Selected Projects
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Library Management System
+<h3>🛒 E-Commerce WebApp</h3>
 
-A structured application for managing books, users, issue records and library operations.
+A modern e-commerce platform built as a full-stack development project.
 
-**Tech Stack**
+<br/>
 
-`Java` `OOP` `Database` `Logic`
+<b>Focus</b>
+
+`Frontend` `Backend` `Authentication` `Products`
+
+<br/><br/>
+
+<a href="https://github.com/animesh2008-projects/E-Commerce-WebApp">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Online Quiz System
+<h3>🛡️ RatriSathi AI</h3>
 
-An academic quiz platform designed for answering questions, checking responses and improving user interaction.
+AI-powered women's safety platform focused on emergency response and safer travel.
 
-**Tech Stack**
+<br/>
 
-`Java` `Logic` `UI` `Problem Solving`
+<b>Focus</b>
+
+`AI` `Safety` `Location` `MySQL`
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HACKATHON%20PROJECT-8B5CF6?style=for-the-badge"/>
 
 </td>
 
@@ -167,292 +141,217 @@ An academic quiz platform designed for answering questions, checking responses a
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧮 Animated Calculator
+<h3>🌱 EcoVision AI</h3>
 
-A responsive calculator that combines everyday utility with interactive animations and modern UI.
+AI-powered environmental management concept designed for smarter campus operations.
 
-**Tech Stack**
+<br/>
+
+<b>Focus</b>
+
+`AI` `Firebase` `Automation` `Computer Vision`
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20INNOVATION-8B5CF6?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏥 AarogyaX Cure</h3>
+
+Digital healthcare platform concept combining AI assistance, emergency support and healthcare services.
+
+<br/>
+
+<b>Focus</b>
+
+`AI` `Flask` `Firebase` `Healthcare`
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HEALTHTECH-8B5CF6?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 Library Management System</h3>
+
+A project focused on managing books, users and library operations.
+
+<br/>
+
+<b>Focus</b>
+
+`Java` `OOP` `Logic` `Database`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧮 Animated Calculator</h3>
+
+A responsive calculator with an interactive interface and smooth animations.
+
+<br/>
+
+<b>Focus</b>
 
 `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🎙️ Speech Recognition Tool
-
-A browser-based tool exploring voice input, speech recognition and accessible user interaction.
-
-**Tech Stack**
-
-`JavaScript` `Web Speech API`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔐 Strong Password Generator
-
-A security-focused utility designed to generate stronger passwords and encourage better credential practices.
-
-**Tech Stack**
-
-`JavaScript` `API` `Security` `Logic`
-
-</td>
-
-<td width="50%">
-
-### 🌱 EcoVision AI
-
-An AI-powered concept focused on improving campus environmental operations through intelligent detection, analysis and task management.
-
-**Tech Stack**
-
-`AI` `JavaScript` `Firebase` `Computer Vision`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛡️ RatriSathi AI
-
-An AI-powered women's safety platform designed around emergency response, live location, safety check-ins and risk-aware assistance.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `MySQL`
-
-</td>
-
-<td width="50%">
-
-### 🏥 AarogyaX Cure
-
-A digital healthcare platform concept combining AI assistance, emergency support, hospital discovery and health-related services.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Flask` `Firebase`
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/animesh2008-projects?tab=repositories">
-
-<img src="https://img.shields.io/badge/Explore%20All%20Projects%20%E2%86%92-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS%20%E2%86%92-111827?style=for-the-badge"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🎓 Education
+---
 
-```text
-2025 ─────────────────────────────── 2028
-             BCA
-ABS Academy of Management And Health Science
-       Software & Technology Focus
-
-2023 ─────────────────────────────── 2025
-          Higher Secondary
-     Bahula Sashi Smriti High School
-
-2023
-           Secondary
-       Baidyanathpur High School
-```
-
-<br/>
-
-## 🏆 Experience & Activities
-
-### 🚀 GeeksforGeeks Campus Mantri
-
-**Jun 2026 – Present**
-
-Working as a Campus Mantri and participating in technology-focused community and promotional activities.
-
-### 💻 IT Committee Member
-
-**ABS Academy of Science Technology & Management**
-
-Contributing to technical activities, teamwork and technology-related initiatives within the institution.
-
-### 🎓 IIT Roorkee Campus Ambassador
-
-**Mar 2026 – May 2026**
-
-Participated in outreach and promotion activities while connecting students with technology opportunities.
-
-### 🌐 Full-Stack Developer Intern
-
-**CodeAlpha**
-
-Worked on practical web-development projects including e-commerce, social media and project management concepts.
-
-### 💻 Web Development Intern
-
-**HexSoftwares**
-
-Worked on web-development tasks and practical frontend development.
-
-<br/>
-
-## 🤖 Areas I'm Exploring
+## 💼 Experience
 
 <div align="center">
 
-`Artificial Intelligence` •
-`Generative AI` •
-`Full-Stack Development` •
-`Cybersecurity` •
-`Cloud` •
-`Automation` •
-`Modern UI`
+|       | Role                            | Organization                |
+| :---: | ------------------------------- | --------------------------- |
+|   🚀  | **Campus Mantri**               | GeeksforGeeks               |
+|   💻  | **IT Committee Member**         | ABS Academy                 |
+|   🎓  | **Campus Ambassador**           | IIT Roorkee                 |
+|   ⚡   | **Full-Stack Developer Intern** | CodeAlpha                   |
+|   🌐  | **Web Development Intern**      | HexSoftwares                |
+| 🧑‍💻 | **Ex-Intern**                   | Scaler School of Technology |
 
 </div>
 
 <br/>
 
-## 🏗️ My Development Philosophy
+---
 
-```text
-        THINK
-          ↓
-       LEARN
-          ↓
-        BUILD
-          ↓
-       TEST
-          ↓
-       DEBUG
-          ↓
-       IMPROVE
-          ↓
-        SHIP 🚀
-```
-
-I believe the best way to learn technology is to **build something real, break it, understand why it broke, and build it better.**
-
-<br/>
-
-## 📊 GitHub Analytics
+## 🧠 What I'm Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=animesh2008-projects&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" width="49%"/>
+```text
+Java & DSA
+     │
+     ├──► Problem Solving
+     │
+     ├──► Full-Stack Development
+     │
+     ├──► AI & Generative AI
+     │
+     ├──► Cybersecurity
+     │
+     └──► Building Real-World Products
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh2008-projects&theme=radical&hide_border=true" width="49%"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 Build • Learn • Participate
+
+<div align="center">
+
+🚀 **Hackathons**   •  
+💻 **Development**   •  
+🤖 **AI**   •  
+🔐 **Cybersecurity**   •  
+📚 **Learning**   •  
+🌱 **Innovation**
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh2008-projects&layout=compact&theme=radical&hide_border=true" width="49%"/>
+> *"Don't just learn technology. Build with it."*
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=animesh2008-projects&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&text_color=CBD5E1&icon_color=A78BFA&bg_color=00000000&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh2008-projects&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animesh2008-projects&theme=react-dark&hide_border=true" width="97%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh2008-projects&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=CBD5E1&bg_color=00000000" width="40%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animesh2008-projects&bg_color=00000000&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="96%"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophy Cabinet
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=animesh2008-projects&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://raw.githubusercontent.com/animesh2008-projects/animesh2008-projects/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/animesh2008-projects/animesh2008-projects/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🎯 Current Goals
-
-```text
-☑ Strengthen Java & DSA
-☑ Build real-world software projects
-☑ Improve Full-Stack development
-☑ Explore AI-powered applications
-☑ Participate in hackathons
-☑ Grow through practical development
-☐ Launch products that people actually use 🚀
-```
-
-<br/>
-
-## 🌐 Find Me Online
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://portfolio-animesh882.netlify.app/">
-
-<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/animesh2008-projects">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/animesh-karmakar-91351536b/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:animeshkarmakar882@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💬 Let's Build Something
-
-Whether it's a **web application, AI project, hackathon idea, or something completely new**, I'm always open to learning, collaborating and building.
-
-<br/>
-
-**"Build. Learn. Improve. Repeat." 🚀**
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6366F1,100:8B5CF6&height=150&section=footer" width="100%"/>
+### `BUILD → BREAK → LEARN → REBUILD → SHIP 🚀`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:151B2E,100:8B5CF6&height=130&section=footer" width="100%"/>
 
 </div>

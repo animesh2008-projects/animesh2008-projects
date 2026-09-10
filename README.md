@@ -155,31 +155,7 @@
 
 <tr>
 
-<td width="50%" valign="top">
 
-<div align="center">
-
-### 🧠 `AUNEX`
-
-**AI-POWERED DIGITAL ECOSYSTEM**
-
-</div>
-
-A digital ecosystem concept connecting **students, freelancers, businesses and customers**.
-
-<br/>
-
-`AI` `Firebase` `Marketplace` `Web`
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-06B6D4?style=for-the-badge"/>
-
-</div>
-
-</td>
 
 <td width="50%" valign="top">
 
